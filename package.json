@@ -1,0 +1,11 @@
+{
+  "name": "@he11yeah/how-to-npm",
+  "version": "1.0.0",
+  "description": "how-to-npm test init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test\";"
+  },
+  "author": "Curt Snellgrove",
+  "license": "ISC"
+}
