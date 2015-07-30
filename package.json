@@ -4,8 +4,11 @@
   "description": "how-to-npm test init",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"test\";"
+    "test": "node test.js"
   },
   "author": "Curt Snellgrove",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
